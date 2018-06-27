@@ -93,8 +93,8 @@ pre ::selection{
 }
 .content-box{
   background-origin:border-box;
-  max-width: 85%;
-  min-width:70%;
+  max-width: 100%;
+  min-width:100%;
   min-height: 200px;
   background: white;
   margin-bottom:10px;
